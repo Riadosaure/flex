@@ -1,0 +1,107 @@
+/*grid-template: repeat(auto-fill, minmax(400px, 1fr)*/
+
+h1, h2
+{
+	color: lime;
+	text-align: center;
+	font-weight: bold;
+	padding: 0px;
+}
+
+
+ul
+{
+	list-style-type: none;
+	border: 3px solid black;
+	padding: 0px;
+	display: flex;
+	justify-content: space-around;
+	background-color: darkgreen;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+a
+{
+	text-decoration: none;
+	color: lime;
+}
+
+a:hover
+{
+	opacity: 0.47;
+}
+
+header
+{
+	background-color: black;
+	color: white;
+}
+
+p
+{
+	color: lime;
+	text-align: justify;
+	padding: 10px;
+	font-weight: bold;
+}
+
+ul li
+{
+	border: 2px solid lime;
+	width: 20%;
+	text-align:center;
+}
+
+#parent
+{
+	border: 2px solid black;
+	display: flex;
+	margin-top: 0px;
+}
+
+article
+{
+	background-color: black;
+	width:40%;
+}
+
+section
+{
+	display: flex;
+	justify-content: center;
+	width: 70%
+}
+
+aside
+{
+	width: 30%;
+	background-color: darkgreen;
+	padding: 0px 20px;
+}
+
+body
+{
+	display: flex;
+	flex-direction: column;
+}
+
+footer
+{
+	text-align: center;
+	font-size: 1.4em;
+	background-color: forestgreen;
+	color: black;
+	height: 50px;
+}
+
+aside h2:first-of-type
+{
+	text-align: left;
+}
+
+
+
+
+
+

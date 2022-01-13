@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+	    <!-- en tête de la page -->
+        <meta charset="utf-8" />
+		<link rel="stylesheet" href="flex.css" />
+		<title>Soyez Flex!</title>
+
+    </head>
+
+    <body>
+		<header>
+			<h1>Mon blog</h1>
+			<nav>
+				<h2>Bienvenue</h2>		
+				<ul>
+					<li><a href="#">Accueil</a></li>
+					<li><a href="#">Contact</a></li>
+					<li><a href="#">About us</a></li>
+					<li><a href="#">FAQ</a></li>
+					<li><a href="#">Reseaux</a></li>
+				</ul>
+			</nav>
+		</header>
+		
+		<main id="parent">
+			<aside>
+					<p>Aside</p>
+			</aside>
+			
+			<section>
+				<article>
+					<p>
+						Quand tu fais le calcul, ce n'est pas un simple sport car c'est un très,<br />
+						très gros travail parce que spirituellement, on est tous ensemble, ok ?<br />
+						Tu vas te dire : J'aurais jamais cru que le karaté guy pouvait parler comme ça !<br />
+						
+						Je me souviens en fait, je sais que, grâce à ma propre vérité<br />
+						c'est juste une question d'awareness et finalement tout<br />
+						refaire depuis le début. C'est pour ça que j'ai fait des films<br />
+						avec des replicants.<br /><br />
+
+						Tu vois, ce n'est pas un simple sport car on est tous capables<br />
+						de donner des informations à chacun puisque the final<br />
+						conclusion of the spirit is perfection Et j'ai toujours grandi parmi<br />
+						les chiens.<br /><br />
+
+						Je me souviens en fait, ce n'est pas un simple sport car entre<br />
+						penser et dire, il y a un monde de différence et finalement<br />
+						tout refaire depuis le début. Et j'ai toujours grandi parmi<br />
+						les chiens.
+					</p>					
+				</article>
+				
+				<article>
+					<p>
+						Ton chat, il s'est marié lui en tout cas, c'est un bon moyen de<br />
+						gagner sa vie, non ?! Et la rage de dents de René a finie à<br />
+						la cave !<br /><br />
+
+						Ton père, lui au moins fait du sport car il ne se fait pas<br />
+						d'illusion sur ton sort. Il en avait tellement marre de denise<br />
+						qu'il est parti dans la chambre !<br /><br />
+						
+						Ton père, lui au moins fait du sport car il ne se fait pas<br />
+						d'illusion sur ton sort. Il en avait tellement marre de denise<br />
+						qu'il est parti dans la chambre !<br /><br />
+						
+						Ton père, lui au moins fait du sport car il ne se fait pas<br />
+						d'illusion sur ton sort. Il en avait tellement marre de denise<br />
+						qu'il est parti dans la chambre !<br /><br />
+
+						Ton frère, il ne fait jamais rien car il ne se fait pas d'illusion<br />
+						sur ton sort. Et Jano, il a fini la soirée dans les toilettes !
+					</p>
+				</article>
+				
+				<article>
+					<p>
+						Florence avait fini de préparer le matériel demandé par<br />
+						Prélude. Elle était fin prête. Elle vérifia le bon fonctionnement<br />
+						de la liaison entre son ordinateur portable et Internet. Prélude<br />
+						était bien là. A peine connecté à Internet que la voix de Prélude<br />
+						se fit entendre.<br /><br />
+
+						David finit au bout d'une heure par s'assoupir. Il fut réveillé<br />
+						par le bruit d’une portière se fermant. Le chauffeur venait de<br />
+						sortir et discutait avec un militaire. David reconnu l’entrée du<br />
+						57e RA qui n’avait pas changé depuis son départ. « Nous<br />
+						sommes arrivés Monsieur Arnould. » Dis l'un des gardes du<br />
+						corps de David.
+					</p>
+				</article>
+			</section>
+			
+			<aside>
+				<p>Aside</p>
+			</aside>
+			
+		</main>
+		
+		<footer>
+			footer
+		</footer>
+		
+	</body>
+</html>

@@ -1,0 +1,106 @@
+/*grid-template: repeat(auto-fill, minmax(400px, 1fr)*/
+
+h1, h2
+{
+	color: lime;
+	text-align: center;
+	font-weight: bold;
+	padding: 0px;
+}
+
+
+ul
+{
+	list-style-type: none;
+	border: 3px solid black;
+	padding: 0px;
+	display: flex;
+	justify-content: space-around;
+	background-color: darkgreen;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+a
+{
+	text-decoration: none;
+	color: lime;
+}
+
+a:hover
+{
+	opacity: 0.47;
+}
+
+header
+{
+	background-color: black;
+	color: white;
+}
+
+p
+{
+	color: lime;
+	text-align: justify;
+	padding: 10px;
+	font-weight: bold;
+}
+
+ul li
+{
+	border: 2px solid lime;
+	width: 20%;
+	text-align:center;
+}
+
+#parent
+{
+	border: 2px solid lime;
+	display: flex;
+	margin-top: 0px;
+}
+
+article
+{
+	border: 2px solid olive;
+	background-color: black;
+	width:40%;
+}
+
+section
+{
+	display: flex;
+	justify-content: center;
+	width: 70%
+}
+
+aside
+{
+	width: 30%;
+	background-color: darkgreen;
+}
+
+body
+{
+	display: flex;
+	flex-direction: column;
+}
+
+nav
+{
+	border: 2px solid turquoise;
+}
+
+footer
+{
+	text-align: center;
+	background-color: black;
+	color: lime;
+	height: 50px;
+}
+
+
+
+
+
+
